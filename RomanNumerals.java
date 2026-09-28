@@ -1,5 +1,3 @@
-package DistributedSystemsAssignment;
-
 import java.util.Scanner;
 
 public class RomanNumerals {
